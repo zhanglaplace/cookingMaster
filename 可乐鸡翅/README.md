@@ -34,19 +34,19 @@
 
   小火，锅中放一点底油，将鸡翅煎成金黄。
   
-  ![img_1](https://github.com/zhanglaplace/cookingMaster/blob/master/%E6%B2%B9%E7%84%96%E5%A4%A7%E8%99%BE/imgs/3.png)
+  ![img_1](https://github.com/zhanglaplace/cookingMaster/blob/master/%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85/imgs/1.png)
   
 4. 继续焖:
 
   一听可乐、一勺料酒、一勺老抽，两勺生抽，加半支桂皮会更有风味。不用加水。炖至汤汁还剩一碗水的量时，再尝尝咸淡，如需加盐再加少量盐，这样不容易出差错。
   
-  ![img_2](https://github.com/zhanglaplace/cookingMaster/blob/master/%E6%B2%B9%E7%84%96%E5%A4%A7%E8%99%BE/imgs/4.png)
+  ![img_2](https://github.com/zhanglaplace/cookingMaster/blob/master/%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85/imgs/2.png)
   
 5. 收汁待出锅:
 
   炖至汤汁收浓，浓度看图，基本所有汁都裹在鸡翅上了，只剩约三勺汤汁了，出锅。
   
-  ![img_3](https://github.com/zhanglaplace/cookingMaster/blob/master/%E6%B2%B9%E7%84%96%E5%A4%A7%E8%99%BE/imgs/5.png)
+  ![img_3](https://github.com/zhanglaplace/cookingMaster/blob/master/%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85/imgs/3.png)
 
   
   
