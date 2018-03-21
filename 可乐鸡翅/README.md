@@ -22,31 +22,31 @@
   
 ### 制作过程
 ----------------
-1.处理鸡翅：
+1. 处理鸡翅：
 
-  生鸡翅洗净，用刀在鸡翅上滑刀，用一勺老抽、2勺料酒腌制2小时，实际上不需要这么久，1小时即可。待用。
+    生鸡翅洗净，用刀在鸡翅上滑刀，用一勺老抽、2勺料酒腌制2小时，实际上不需要这么久，1小时即可。待用。
     
 2. 去血水:
 
-  锅中放水和葱姜片，鸡翅下锅煮开，不用煮透，看到浮沫比较多时关火捞出即可，用温热的水冲洗掉浮沫，沥干。
+    锅中放水和葱姜片，鸡翅下锅煮开，不用煮透，看到浮沫比较多时关火捞出即可，用温热的水冲洗掉浮沫，沥干。
   
 3. 粗步炒 :
 
-  小火，锅中放一点底油，将鸡翅煎成金黄。
+    小火，锅中放一点底油，将鸡翅煎成金黄。
   
-  ![img_1](https://github.com/zhanglaplace/cookingMaster/blob/master/%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85/imgs/1.png)
+    ![img_1](https://github.com/zhanglaplace/cookingMaster/blob/master/%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85/imgs/1.png)
   
 4. 继续焖:
 
-  一听可乐、一勺料酒、一勺老抽，两勺生抽，加半支桂皮会更有风味。不用加水。炖至汤汁还剩一碗水的量时，再尝尝咸淡，如需加盐再加少量盐，这样不容易出差错。
+    一听可乐、一勺料酒、一勺老抽，两勺生抽，加半支桂皮会更有风味。不用加水。炖至汤汁还剩一碗水的量时，再尝尝咸淡，如需加盐再加少量盐，这样不容易出差错。
   
-  ![img_2](https://github.com/zhanglaplace/cookingMaster/blob/master/%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85/imgs/2.png)
+    ![img_2](https://github.com/zhanglaplace/cookingMaster/blob/master/%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85/imgs/2.png)
   
 5. 收汁待出锅:
 
-  炖至汤汁收浓，浓度看图，基本所有汁都裹在鸡翅上了，只剩约三勺汤汁了，出锅。
+    炖至汤汁收浓，浓度看图，基本所有汁都裹在鸡翅上了，只剩约三勺汤汁了，出锅。
   
-  ![img_3](https://github.com/zhanglaplace/cookingMaster/blob/master/%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85/imgs/3.png)
+    ![img_3](https://github.com/zhanglaplace/cookingMaster/blob/master/%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85/imgs/3.png)
 
   
   
