@@ -49,7 +49,7 @@
 
 ### 最终的结果：
 
-    ![img_1](https://github.com/zhanglaplace/cookingMaster/blob/master/%E9%A6%99%E8%BE%A3%E9%B8%A1%E7%BF%85/imgs/1.jpg)
+   ![img_1](https://github.com/zhanglaplace/cookingMaster/blob/master/%E9%A6%99%E8%BE%A3%E9%B8%A1%E7%BF%85/imgs/1.jpg)
 
   
   
